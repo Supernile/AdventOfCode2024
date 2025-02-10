@@ -1,0 +1,14 @@
+C:\Programming\C#\AdventOfCode24\AdventOfCodeDay2\AdventOfCodeDay2\bin\Debug\net8.0\AdventOfCodeDay2.exe
+C:\Programming\C#\AdventOfCode24\AdventOfCodeDay2\AdventOfCodeDay2\bin\Debug\net8.0\AdventOfCodeDay2.deps.json
+C:\Programming\C#\AdventOfCode24\AdventOfCodeDay2\AdventOfCodeDay2\bin\Debug\net8.0\AdventOfCodeDay2.runtimeconfig.json
+C:\Programming\C#\AdventOfCode24\AdventOfCodeDay2\AdventOfCodeDay2\bin\Debug\net8.0\AdventOfCodeDay2.dll
+C:\Programming\C#\AdventOfCode24\AdventOfCodeDay2\AdventOfCodeDay2\bin\Debug\net8.0\AdventOfCodeDay2.pdb
+C:\Programming\C#\AdventOfCode24\AdventOfCodeDay2\AdventOfCodeDay2\obj\Debug\net8.0\AdventOfCodeDay2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\AdventOfCode24\AdventOfCodeDay2\AdventOfCodeDay2\obj\Debug\net8.0\AdventOfCodeDay2.AssemblyInfoInputs.cache
+C:\Programming\C#\AdventOfCode24\AdventOfCodeDay2\AdventOfCodeDay2\obj\Debug\net8.0\AdventOfCodeDay2.AssemblyInfo.cs
+C:\Programming\C#\AdventOfCode24\AdventOfCodeDay2\AdventOfCodeDay2\obj\Debug\net8.0\AdventOfCodeDay2.csproj.CoreCompileInputs.cache
+C:\Programming\C#\AdventOfCode24\AdventOfCodeDay2\AdventOfCodeDay2\obj\Debug\net8.0\AdventOfCodeDay2.dll
+C:\Programming\C#\AdventOfCode24\AdventOfCodeDay2\AdventOfCodeDay2\obj\Debug\net8.0\refint\AdventOfCodeDay2.dll
+C:\Programming\C#\AdventOfCode24\AdventOfCodeDay2\AdventOfCodeDay2\obj\Debug\net8.0\AdventOfCodeDay2.pdb
+C:\Programming\C#\AdventOfCode24\AdventOfCodeDay2\AdventOfCodeDay2\obj\Debug\net8.0\AdventOfCodeDay2.genruntimeconfig.cache
+C:\Programming\C#\AdventOfCode24\AdventOfCodeDay2\AdventOfCodeDay2\obj\Debug\net8.0\ref\AdventOfCodeDay2.dll
