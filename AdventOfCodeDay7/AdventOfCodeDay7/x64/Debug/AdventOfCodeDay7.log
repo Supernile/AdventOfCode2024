@@ -1,0 +1,4 @@
+﻿  AdventOfCodeDay7.cpp
+C:\Programming\C#\AdventOfCode24\AdventOfCodeDay7\AdventOfCodeDay7\AdventOfCodeDay7.cpp(912,30): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Programming\C#\AdventOfCode24\AdventOfCodeDay7\AdventOfCodeDay7\AdventOfCodeDay7.cpp(969,30): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  AdventOfCodeDay7.vcxproj -> C:\Programming\C#\AdventOfCode24\AdventOfCodeDay7\x64\Debug\AdventOfCodeDay7.exe
