@@ -1,0 +1,3 @@
+﻿  AdventOfCodeDay9.cpp
+C:\Programming\C#\AdventOfCode24\AdventOfCodeDay9\AdventOfCodeDay9\AdventOfCodeDay9.cpp(100,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AdventOfCodeDay9.vcxproj -> C:\Programming\C#\AdventOfCode24\AdventOfCodeDay9\x64\Debug\AdventOfCodeDay9.exe
